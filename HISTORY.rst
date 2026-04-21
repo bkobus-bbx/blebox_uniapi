@@ -1,6 +1,10 @@
 =======
 History
 =======
+2.5.1 (2026-04-21)
+------------------
+* fix: multisensor current and energy sensor scales
+
 2.5.0 (2024-08-20)
 ------------------
 * feature: expose sensor_id in sensors and alias in all features by @swistakm in https://github.com/blebox/blebox_uniapi/pull/176
