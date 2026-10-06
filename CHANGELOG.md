@@ -1,5 +1,17 @@
 # Changelog
 
+## [2.6.0](https://github.com/bkobus-bbx/blebox_uniapi/compare/v2.5.8...v2.6.0) (2026-10-06)
+
+
+### Features
+
+* test release-please ([#4](https://github.com/bkobus-bbx/blebox_uniapi/issues/4)) ([db5a956](https://github.com/bkobus-bbx/blebox_uniapi/commit/db5a9562b62898f34b9a037e4227af504d980023))
+
+
+### Bug Fixes
+
+* test release-please ([#2](https://github.com/bkobus-bbx/blebox_uniapi/issues/2)) ([f5d4c59](https://github.com/bkobus-bbx/blebox_uniapi/commit/f5d4c590b111bf60bf5761bec17a93c0a34b60b6))
+
 ## [2.5.8](https://github.com/blebox/blebox_uniapi/compare/v2.5.7...v2.5.8) (2026-10-01)
 
 ### Features
