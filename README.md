@@ -23,3 +23,5 @@ Contributions are welcome!
 [Cookiecutter]: https://github.com/audreyr/cookiecutter
 [audreyr/cookiecutter-pypackage]: https://github.com/audreyr/cookiecutter-pypackage
 [11 BleBox smart home devices]: https://blebox.eu/produkty/?lang=en
+
+Test release-please
